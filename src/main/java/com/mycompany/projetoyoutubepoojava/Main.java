@@ -1,8 +1,9 @@
 
 package com.mycompany.projetoyoutubepoojava;
 
+import com.mycompany.Models.*;
 
-public class ProjetoYoutubePOOJava {
+public class Main {
 
     public static void main(String[] args) 
     {
@@ -35,7 +36,7 @@ public class ProjetoYoutubePOOJava {
         System.out.println(g[0].toString());
         System.out.println(g[1].toString());        
             
-        
+        System.out.println("\nEncerrando programa...");
         
     }
 }

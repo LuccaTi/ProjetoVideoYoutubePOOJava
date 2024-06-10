@@ -1,4 +1,4 @@
-package com.mycompany.projetoyoutubepoojava;
+package com.mycompany.Models;
 
 public class Visualizacao 
 {
